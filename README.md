@@ -1,4 +1,4 @@
-![Image Description](https://sinsauthor.ca/assets/github/sinsauthor-main-banner.jpg)
+![Image Description](https://sinsauthor.ca/assets/github/sinsauthor-banner-01.jpg)
 
 # 🌙 SinsAuthors Universe™
 
