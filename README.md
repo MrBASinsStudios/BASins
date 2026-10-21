@@ -1,5 +1,5 @@
 
-[![SinsAuthors Universe Animated Banner](https://sinsauthor.ca/assets/github/sinsauthor-main-banner.gif)](https://sinsauthor.ca)
+[![SinsAuthors Universe animated banner](https://sinsauthor.ca/assets/github/sinsauthor-main-banner.gif)](https://sinsauthor.ca)
 
 # 🌙 SinsAuthors Universe™
 
