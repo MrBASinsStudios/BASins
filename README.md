@@ -1,4 +1,7 @@
 
+
+[![SinsAuthors Universe](https://sinsauthor.ca/assets/github/SinsAuthor Banner Smaller-005.jpg)](https://sinsauthor.ca)
+
 # 🌙 SinsAuthors Universe™
 
 ### The Creative Worlds of B.A Sins
